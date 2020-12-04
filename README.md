@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danjuma Ashiwaju</h1>  
-<h3 align="center">Front-end Developer / Web Designer Straight Outta Africa</h3>  
-
+<h3 align="center">Front-end Developer / Web Designer Straight Outta Africa</h3>
 
 ![enter image description here](https://res.cloudinary.com/deejaydev/image/upload/v1607085231/Github%20Profile/ezgif.com-crop_1_ygsjbo.gif)
-I'm Danjuma Ashiwaju, a selfthought Front-End Web Developer with a good eye for awesome Web Design. Durring the day, I run [DeejayDev.work](https://deejaydev.work), An Awesome Digital Agency. At night I enjoy putting on my headphones, codding away and bringing ideas to life.
+
+I'm Danjuma Ashiwaju, a self-taught Front-End Web Developer with a good eye for awesome Web Design. During the day, I run [DeejayDev.work](https://deejaydev.work), An Awesome Digital Agency. At night I enjoy putting on my headphones, codding away and bringing ideas to life.
 
 - 🔭 I’m currently working on [My Awesome Digital Agency](www.deejaydev.work)
 - 🌱 I’m currently learning **NodeJS in depth**
