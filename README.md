@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danjuma Ashiwaju</h1>  
+<h1 align="center">Hi 👋, I'm DeeJay</h1>  
 <h3 align="center">Front-end Developer / Web Designer </h3>
 
 ![enter image description here](https://res.cloudinary.com/deejaydev/image/upload/v1607085231/Github%20Profile/ezgif.com-crop_1_ygsjbo.gif)
