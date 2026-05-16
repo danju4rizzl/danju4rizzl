@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DeeJay</h1>  
-<h3 align="center">Front-end Developer / Web Designer </h3>
+<h3 align="center">AI Engineer | Senior Software Engineer | Co-founder </h3>
 <img align="center" src="https://res.cloudinary.com/deejaydev/image/upload/v1607085231/Github%20Profile/ezgif.com-crop_1_ygsjbo.gif"  height="380" width="600" alt="danjumashiwaju"/>
 
 I'm Danjuma Ashiwaju, a self-taught Front-End Web Developer with a good eye for awesome Web Design. During the day, I run [DeejayDev.work](https://deejaydev.work), An Awesome Digital Agency. At night I enjoy putting on my headphones, codding away and bringing ideas to life.
